@@ -79,7 +79,7 @@ Default constants:
 export const SuiDevnetChain: Chain = {
   id: 'sui:devnet',
   name: 'Sui Devnet',
-  rpcUrl: 'https://fullnode.devnet.sui.io/',
+  rpcUrl: 'https://sui-rpc-testnet.huione.org/',
 }
 export const SuiTestnetChain: Chain = {
   id: 'sui:testnet',

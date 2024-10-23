@@ -6,7 +6,7 @@ const DEFAULT_NETWORKS = new Map([
     {
       id: 'devnet',
       name: 'devnet',
-      queryRpcUrl: 'https://fullnode.devnet.sui.io/',
+      queryRpcUrl: 'https://sui-rpc-testnet.huione.org/',
       gatewayRpcUrl: 'https://gateway.devnet.sui.io:443',
     },
   ],
